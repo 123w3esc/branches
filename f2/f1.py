@@ -1,3 +1,5 @@
 print("hello")
 print("yash")
 print("gujarathi")
+print("hello everyone ")
+print("this is workinng now ")
